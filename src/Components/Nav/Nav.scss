@@ -1,0 +1,12 @@
+.Nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em;
+    background: rebeccapurple;
+    .navLinks{
+        display: flex;
+        justify-content: space-around;
+        width: 40%;
+    }
+}   
